@@ -15,8 +15,8 @@
    Failed Request Tracing for Advanced IIS Error Logs
    Make ASP.NET Show the Full Exception…Temporarily
    
-2. ### Avoid double login in SSRS authentication? (with an ASP.NET/ .Net Core, Identity server application)
-   - asdfasdf
+2. ### Avoid double login in SSRS authentication? 
+   with an ASP.NET/ .Net Core, Identity server application
 
 - [ ] If a stored proc has a temp table .....issues to create a model while upload the stored proc
    
