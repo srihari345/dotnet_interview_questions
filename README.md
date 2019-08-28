@@ -30,11 +30,12 @@
 
 - [ ] security risks
    - Telerik old version causing hack
-   - 
+   
 - [ ] SQL security
-   - 
+   - asdf
+   
 - [ ] Code review checklist
-   - 
+   - adsf
    
 - [ ] OOPS
 
@@ -43,4 +44,5 @@
    - GIT
    
 - [ ] Front End 
-   -
+   - adsf
+  
