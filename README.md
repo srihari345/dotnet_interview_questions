@@ -1,3 +1,12 @@
+# Angular Interview Questions & Answers
+
+> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+
+### Table of Contents
+
+| No. | Questions |
+|---- | ---------
+|1 | [What is Angular Framework?](#what-is-angular-framework)|
 # dotnet_interview_questions
 
 - [ ] Different ways to traize IIS application hosting issues?
