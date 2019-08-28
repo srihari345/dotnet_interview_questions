@@ -5,6 +5,7 @@
 | No. | Questions |
 |---- | ---------
 |1 | [Different ways to traize IIS application hosting issues?](#Different-ways-to-traize-IIS-application-hosting-issues?)|
+|2 | [Different ways to traize IIS application hosting issues2?](#Different-ways-to-traize-IIS-application-hosting-issues2?)|
 1. ### Different ways to traize IIS application hosting issues?
 
    - Standard IIS Logs
@@ -12,7 +13,14 @@
    - Look for ASP.NET Exceptions in Windows Event Viewer
    - Failed Request Tracing for Advanced IIS Error Logs
    - Make ASP.NET Show the Full Exception…Temporarily
-   
+
+2. ### Different ways to traize IIS application hosting issues2?
+
+   - Standard IIS Logs
+   - HTTPERR  IIS Error Log
+   - Look for ASP.NET Exceptions in Windows Event Viewer
+   - Failed Request Tracing for Advanced IIS Error Logs
+   - Make ASP.NET Show the Full Exception…Temporarily
    
 # dotnet_interview_questions
 
