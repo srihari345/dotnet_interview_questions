@@ -1,11 +1,13 @@
 # Interview Questions & Answers
+# dotnet_interview_questions
 
 ### Table of Contents
 
 | No. | Questions |
 |---- | ---------
 |1 | [Different ways to traize IIS application hosting issues?](#Different-ways-to-traize-IIS-application-hosting-issues)|
-|2 | [Different ways to traize IIS application hosting issues2?](#Different-ways-to-traize-IIS-application-hosting-issues2)|
+|2 | [Avoid double login in SSRS authentication?](#Avoid-double-login-in-SSRS-authentication)|
+
 1. ### Different ways to traize IIS application hosting issues?
    Standard IIS Logs
    HTTPERR  IIS Error Log
@@ -13,25 +15,15 @@
    Failed Request Tracing for Advanced IIS Error Logs
    Make ASP.NET Show the Full Exception…Temporarily
 
-2. ### Different ways to traize IIS application hosting issues2?
-   Standard IIS Logs
-   HTTPERR  IIS Error Log
-   Look for ASP.NET Exceptions in Windows Event Viewer
-   Failed Request Tracing for Advanced IIS Error Logs
-   Make ASP.NET Show the Full Exception…Temporarily
-
-|1 | [What is Angular Framework?](#what-is-angular-framework)|
-1. ### What is Angular Framework?
-
-    Angular is a **TypeScript-based open-source** front-end platform that makes it easy to build applications with in web/mobile/desktop. The major features of this framework such as declarative templates, dependency injection, end to end tooling, and many more other features are used to ease the development.
 
 
-# dotnet_interview_questions
+
+
 
 - [ ] Different ways to traize IIS application hosting issues?
 
    
-- [ ] Avoid double login in SSRS authentication (with an ASP.NET/ .Net Core, Identity server application)
+- [ ] Avoid double login in SSRS authentication? (with an ASP.NET/ .Net Core, Identity server application)
    - asdfasdf
 
 - [ ] If a stored proc has a temp table .....issues to create a model while upload the stored proc
