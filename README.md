@@ -10,4 +10,5 @@
 - [ ] Avoid double login in SSRS authentication (with an ASP.NET/ .Net Core, Identity server application)
    - asdfasdf
    
-- [ ] 
+- [ ] Q3
+   -
