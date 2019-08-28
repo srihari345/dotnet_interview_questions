@@ -14,16 +14,8 @@
    Look for ASP.NET Exceptions in Windows Event Viewer
    Failed Request Tracing for Advanced IIS Error Logs
    Make ASP.NET Show the Full Exception…Temporarily
-
-
-
-
-
-
-- [ ] Different ways to traize IIS application hosting issues?
-
    
-- [ ] Avoid double login in SSRS authentication? (with an ASP.NET/ .Net Core, Identity server application)
+2. ### Avoid double login in SSRS authentication? (with an ASP.NET/ .Net Core, Identity server application)
    - asdfasdf
 
 - [ ] If a stored proc has a temp table .....issues to create a model while upload the stored proc
