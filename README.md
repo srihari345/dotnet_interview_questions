@@ -9,6 +9,8 @@
    
 - [ ] Avoid double login in SSRS authentication (with an ASP.NET/ .Net Core, Identity server application)
    - asdfasdf
+
+- [ ] If a stored proc has a temp table .....issues to create a model while upload the stored proc
    
 - [ ] Angular JS
    - Lazy loading
@@ -29,3 +31,16 @@
 - [ ] security risks
    - Telerik old version causing hack
    - 
+- [ ] SQL security
+   - 
+- [ ] Code review checklist
+   - 
+   
+- [ ] OOPS
+
+- [ ] Source control management
+   - TFS
+   - GIT
+   
+- [ ] Front End 
+   -
