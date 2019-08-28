@@ -4,8 +4,8 @@
 
 | No. | Questions |
 |---- | ---------
-|1 | [Different ways to traize IIS application hosting issues?](#Different-ways-to-traize-IIS-application-hosting-issues?)|
-|2 | [Different ways to traize IIS application hosting issues2?](#Different-ways-to-traize-IIS-application-hosting-issues2?)|
+|1 | [Different ways to traize IIS application hosting issues?](#Different-ways-to-traize-IIS-application-hosting-issues)|
+|2 | [Different ways to traize IIS application hosting issues2?](#Different-ways-to-traize-IIS-application-hosting-issues2)|
 1. ### Different ways to traize IIS application hosting issues?
    Standard IIS Logs
    HTTPERR  IIS Error Log
@@ -20,14 +20,6 @@
    Failed Request Tracing for Advanced IIS Error Logs
    Make ASP.NET Show the Full Exception…Temporarily
 
-# Angular Interview Questions & Answers
-
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
-
-### Table of Contents
-
-| No. | Questions |
-|---- | ---------
 |1 | [What is Angular Framework?](#what-is-angular-framework)|
 1. ### What is Angular Framework?
 
