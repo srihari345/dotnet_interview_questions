@@ -1,5 +1,4 @@
-# Interview Questions & Answers
-# dotnet_interview_questions
+# Full Stack .Net experience
 
 ### Table of Contents
 
