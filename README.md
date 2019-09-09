@@ -1,4 +1,4 @@
-# Full Stack .Net experience
+# 
 
 ### Table of Contents
 
